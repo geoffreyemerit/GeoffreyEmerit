@@ -51,8 +51,8 @@
 <h1 align="left">👨 Mes réseaux sociaux 🔝</h1>
 <p align="left">
 <a href="https://dev.to/geoffreyemerit" target="blank"><img align="center" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="geoffreyemerit" height="30" width="100" /></a>
-<a href="https://twitter.com/emerit.geoffrey" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="emerit.geoffrey" height="30" width="100" /></a>
-<a href="https://linkedin.com/in/geoffrey.emerit" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="geoffrey.emerit" height="30" width="100" /></a>
+<a href="https://twitter.com/emerit_geoffrey" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="emerit.geoffrey" height="30" width="100" /></a>
+<a href="https://linkedin.com/in/geoffreyemerit" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="geoffrey.emerit" height="30" width="100" /></a>
 <a href="https://fb.com/geoffrey.emerit" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="geoffrey.emerit" height="30" width="100" /></a>
 <a href="https://instagram.com/geoffreyemerit" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="geoffreyemerit" height="30" width="100" /></a>
 <a href="https://dribbble.com/geool" target="blank"><img align="center" src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" alt="geool" height="30" width="100" /></a>
