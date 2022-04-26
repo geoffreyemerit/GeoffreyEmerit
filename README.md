@@ -1,4 +1,4 @@
-![neuf vies](https://user-images.githubusercontent.com/98878861/165148977-6b98350f-e7de-4247-9a61-7da123624d94.png)
+<img src="https://user-images.githubusercontent.com/98878861/165148977-6b98350f-e7de-4247-9a61-7da123624d94.png" alt="banner" />
 
 <h1 align="center">Salut 👋, je suis Geoffrey Emerit</h1>
 
