@@ -3,6 +3,7 @@
 <h1 align="center">Salut 👋, je suis Geoffrey Emerit</h1>
 
 <h3 align="center">Un développeur full-stack français et passionné</h3>
+<a href="https://geoffrey-emerit.vercel.app/" align="center">Mon Portfolio 🚀</a>
 
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=geoffreyemerit&label=Profile%20views&color=red alt=geoffreyemerit/> </p>
 </p>
