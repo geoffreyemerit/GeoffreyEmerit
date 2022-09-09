@@ -12,7 +12,9 @@
 
 <h1 align="left">🧔🏻‍♂️ A propos de moi 🌈</h1>
 
-- 🔭 J'étudie actuellement le Développement Web à la ["Wild Code School"](https://www.wildcodeschool.com/fr-FR)
+- ✍🏻 Je suis à la recherche d'une entreprise pour signer un CDI ou bien une ALTERNANCE en contrat d'apprentissage (-30ans).
+
+- 🔭 J'ai terminé en juillet 2022 ma formation de développeur web à la ["Wild Code School"](https://www.wildcodeschool.com/fr-FR)
 
 - 👨‍💻 Tous mes projets sont disponibles sur : </br>
 
