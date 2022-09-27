@@ -5,8 +5,9 @@
 <h3 align="center">Un développeur full-stack français et passionné</h3>
 <p align="center"><a align="center" href="https://geoffrey-emerit.vercel.app/" >Mon Portfolio 🚀</a></p>
 
-<p align="left"> <img src=https://komarev.com/ghpvc/?username=geoffreyemerit&label=Profile%20views&color=red alt=geoffreyemerit/> </p>
-</p>
+<p align="right"> <img src=https://komarev.com/ghpvc/?username=geoffreyemerit&label=Profile%20views&color=red alt=geoffreyemerit/> </p>
+
+[![Profile badge](https://www.codewars.com/users/geoffreyemerit/badges/large)](https://www.codewars.com/users/geoffreyemerit) 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=geoffreyemerit" alt="geoffreyemerit" /></a> </p>
 
