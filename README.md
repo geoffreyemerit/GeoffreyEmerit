@@ -17,6 +17,8 @@
 
 - 🔭 J'ai terminé en juillet 2022 ma formation de développeur web à la ["Wild Code School"](https://www.wildcodeschool.com/fr-FR)
 
+- 🔭 J'ai terminé en mai 2024 ma formation de concepteur et développeur d'application chez ["Simplon"](https://www.simplon.co/) avec une alternance chez ["Voltaire Groupe"](https://voltairegroup.com/)
+
 - 👨‍💻 Tous mes projets sont disponibles sur : </br>
 
  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/geoffreyemerit) </br>
