@@ -13,13 +13,14 @@
 
 <h1 align="left">🧔🏻‍♂️ A propos de moi 🌈</h1>
 
-- ✍🏻 Je suis à la recherche d'une entreprise pour signer un CDI ou bien une ALTERNANCE en contrat d'apprentissage (-30ans).
-
-- 🔭 J'ai terminé en juillet 2022 ma formation de développeur web à la ["Wild Code School"](https://www.wildcodeschool.com/fr-FR)
+- ✍🏻 Je suis à la recherche de mon nouveau défi professionnel !
 
 - 🔭 J'ai terminé en mai 2024 ma formation de concepteur et développeur d'application chez ["Simplon"](https://www.simplon.co/) avec une alternance chez ["Voltaire Groupe"](https://voltairegroup.com/)
+  
+- 🔭 J'ai terminé en juillet 2022 ma formation de développeur web à la ["Wild Code School"](https://www.wildcodeschool.com/fr-FR)
 
-- 👨‍💻 Tous mes projets sont disponibles sur : </br>
+- 👨‍💻 Tous mes projets publics sont disponibles sur : </br>
+(Malheureusement les derniers projets réalisés ne peuvent pas être publique.)
 
  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/geoffreyemerit) </br>
  [![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/red?icon=github)](https://github.com/geoffreyemerit?tab=repositories)
